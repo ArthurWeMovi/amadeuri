@@ -1,0 +1,34 @@
+h1{
+    color: red;
+}
+
+/* classes e IDs */
+
+.p-texto{
+    color: whitegreen;
+}
+
+div p{
+
+    color:red;
+}
+
+.p-dentro-da-div{
+    color: blue;
+}
+
+#p-super-especifico{
+    color:green;
+}
+
+.nome{
+    color: orange;
+}
+
+.hexa{
+    color:blue;
+}
+
+.rgba{
+    color:black;
+}
